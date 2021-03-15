@@ -64,4 +64,4 @@ the output should be
 
 5) Add and commit your changes (see github documentation for more info)
 
-6) Create a pull request to the master branch (see pull requests on github documentation)
+6) Create a pull request to the main branch (see pull requests on github documentation)
